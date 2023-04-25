@@ -52,34 +52,33 @@ class Config(object):
     #you can change these 
     INFOPIC=True #picture while doing /info
     STRICT_GBAN=True
-    API_ID=681 ##api id from my.telegram.org
-    APP_ID=6281 #same as API_ID
-    API_HASH="45aabfacadsdsds" ##api hash from my.telegram.org
-    APP_HASH="45aabfadsdsd" #same as API_HASH
+    API_ID=25591955 ##api id from my.telegram.org
+    APP_ID=25591955 #same as API_ID
+    API_HASH="190867151075b43a1d0ffb1213b16c7d" ##api hash from my.telegram.org
+    APP_HASH="190867151075b43a1d0ffb1213b16c7d" #same as API_HASH
     BL_CHATS=[1] #chats to be blacklisted
-    MONGO_DB_URL="mongodb+srv://mesdsdwhidsdsgodb.net/?retryWrites=true&w=majority" ##mongo database link (necessary)
-    DB_URL2="mongodb+srv://meowhisswswuj7.mongodb.net/?retryWrites=true&w=majority" #mongo db (not necessary)
-    DB_URL="postgresql://wdsdsw@ldsas/wasassddb" #postgres sql database link
-    REDIS_URL="redis://dsds3@reddsdsuth-1-1.ec2.cloud.redislabs.com:154dsd/Arssddsdsb" #redis database url from redislabs.com
-    TOKEN="54dssdV8e59Odo" #bot token from @BotFather
-    DEV_USERS=[5437915218] #developers id
+    MONGO_DB_URL="mongodb+srv://sano07:sano07@cluster0.jxywgnn.mongodb.net/?retryWrites=true&w=majority" ##mongo database link (necessary)
+    DB_URL2="mongodb+srv://sano07:sano07@cluster0.jxywgnn.mongodb.net/?retryWrites=true&w=majority" #mongo db (not necessary)
+    DB_URL="postgres://zwuqioqo:0Gyr03_QtgOXvtEgYCcOuib7ALGBuHnm@hattie.db.elephantsql.com/zwuqioqo" #postgres sql database link
+    REDIS_URL="redis-cli -u redis://default:0nLBaxJed1LJaNgn9xhL1oyTL49u4B1T@redis-14243.c85.us-east-1-2.ec2.cloud.redislabs.com:14243" #redis database url from redislabs.com
+    TOKEN="6072150041:AAEfA3MdHfP4jzUlpkFrLCfcIRX20oSF6XM" #bot token from @BotFather
+    DEV_USERS=[6273496002] #developers id
     DRAGONS=[9656] #sudo users id
     DEMONS=[1909] #support user ids
     TIGERS=[1] #commas for multiple ids
     WOLVES=[2112, 1212] #commas for multiple ids 
-    DONATION_LINK="https://www.paypal.me/PaulSonOfLars" #u can change with yours
-    EVENT_LOGS=-100159 #channel id for gban logs
-    JOIN_LOGGER=-1001523  #log channel/group id
-    OWNER_ID=5437915218 #owner id in integer
-    ERROR_LOGS=-1001 #support group id
+    EVENT_LOGS=-1001752675171 #channel id 6273496002for gban logs
+    JOIN_LOGGER=-1001217847667  #log channel/group id
+    OWNER_ID=5477247654 #owner id in integer
+    ERROR_LOGS=-1001217847667 #support group id
     BOT_ID = 2321 #id of bot in integer value
-    BOT_NAME="Himawari" #your bot name
-    ARQ_API_KEY="SLSFXSsdUXNSMH-ARQ" #ARQ api key from @ARQRobot
+    BOT_NAME="𝐌ɪᴢᴜᴋɪ 𝐀ᴋɪʏᴀᴍᴀ" #your bot name
+    ARQ_API_KEY="TDUXGZ-KIRHFZ-DJVBLX-RVGZFD-ARQ" #ARQ api key from @ARQRobot
     ARQ_API_URL="arq.hamker.dev" #arq link
-    SUPPORT_CHAT="Ignidsn" #support group username without @
-    OWNER_USERNAME="arsshh" #owner username without @
-    UPDATES_CHANNEL="Igsd" #Updates/News Channel username without @
-    BOT_USERNAME="Himawari_Robot" #bot username without @
+    SUPPORT_CHAT="Xd_Bot_Support" #support group username without @
+    OWNER_USERNAME="Noah_Afk" #owner username without @
+    UPDATES_CHANNEL="xD_Bots_Update" #Updates/News Channel username without @
+    BOT_USERNAME="Mizuki_xprobot" #bot username without @
     REM_BG_API_KEY="K2dsdsYma6cZx" #not necessary
     GENIUS_API_TOKEN="e-8UdRQNrIssPyM" # api token from genius.com (not necessary)
     TIME_API_KEY="QLLLDV7SWFD3" #not necessary
